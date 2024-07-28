@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import smeanpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeanpw@deno/mod.js';
+import smeanpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeanpw@v0.2.2-deno/mod.js';
 ```
 
 #### smeanpw( N, x, stride )
@@ -172,7 +172,7 @@ var v = smeanpw.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import smeanpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeanpw@deno/mod.js';
+import smeanpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeanpw@v0.2.2-deno/mod.js';
 
 var x;
 var i;
