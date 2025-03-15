@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-18)
+## Unreleased (2025-03-15)
+
+<section class="features">
+
+### Features
+
+-   [`ff9453b`](https://github.com/stdlib-js/stdlib/commit/ff9453baf2cd7476d9549ba63a52e182f496c4ab) - add C ndarray interface and refactor implementation for `stats/base/smeanpw` [(#4753)](https://github.com/stdlib-js/stdlib/pull/4753)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`ff9453b`](https://github.com/stdlib-js/stdlib/commit/ff9453baf2cd7476d9549ba63a52e182f496c4ab) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smeanpw` [(#4753)](https://github.com/stdlib-js/stdlib/pull/4753) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`5a7aa5f`](https://github.com/stdlib-js/stdlib/commit/5a7aa5f8ce1bc39cb8bf450454e4faddeae5a245) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`5ef836c`](https://github.com/stdlib-js/stdlib/commit/5ef836cd3679fc6a70b1c486a5f673afeb8c0c34) - **refactor:** update `stats/base/smeanpw` native addon from C++ to C [(#4608)](https://github.com/stdlib-js/stdlib/pull/4608) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -29,11 +40,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 -   Vivek Maurya
 
 </section>
